@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.main {
+  text-align: center;
+}
